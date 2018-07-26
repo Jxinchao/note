@@ -410,7 +410,7 @@ element.addEventListener(‘touchstart’,function(){},false);
 
 ​    A、浏览器崩溃
 
-    ```
+    ```javascript
 var act = function(){
 	window.removeEventListener('devicemotion',act);
 };
