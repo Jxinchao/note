@@ -464,3 +464,6 @@ document.addEventListener('touchstart', function () {
   ​    D、Flex box 不兼容   
 
   ​    在游戏内嵌webview中碰到Flex box布局不兼容的情况，图中所示下面部分的导航错位了，虽然之前有仔细查看过Flex box的兼容性，但是在游戏内嵌页中无法确定其调用的系统浏览器版本及兼容，所以导致错误，所以我们写完整历史版本呢的3种Flex box 解决。那么我们思考在写页面过程中还是本着保守稳定的方式书写样式可以减少不不要的麻烦。
+
+## web前端UI设计规范
+
