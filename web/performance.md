@@ -8,3 +8,4 @@
 
 > 大多数框架都有插件来促进网页的缩小。你可以使用一组可以自动完成工作的NPM模块。
 
+https://juejin.im/entry/5b5e6783e51d45355d51e91d?utm_source=gold_browser_extension  // 地址链接
